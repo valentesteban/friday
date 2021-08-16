@@ -6,7 +6,7 @@
 
     <parent>
         <artifactId>friday-parent</artifactId>
-        <groupId>net.gromer</groupId>
+        <groupId>com.valentesteban</groupId>
         <version>1.0</version>
     </parent>
 

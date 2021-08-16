@@ -1,0 +1,35 @@
+BOOLEANS:
+  # Booleans of modules
+  COOLDOWN-CHAT: true
+  ## Booleans of messages
+  WARNING-MESSAGE: true
+  WARNING-STAFF-MESSAGE: true
+
+  DEFAULT-JOIN-MESSAGE: false
+  DEFAULT-QUIT-MESSAGE: false
+
+BAD-WORDS:
+  - "nigga"
+
+MESSAGES:
+  DELAY-MESSAGE:
+    - ""
+    - "&e&lChat &7> &cYou only can talk once every 3 seconds in the chat!"
+    - "&cPurchase a rank at &6www.fembed.team &cto bypass this restriction."
+  WARNING-MESSAGE:
+    - ""
+    - "&e&lChat &7> &cThis message was hidden from public chat!"
+    - " &cDon't say this words or you going to get a punishment."
+  WARNING-STAFF-MESSAGE:
+    - ""
+    - "&e&lChat &7> &f<player> &chas been said a bad word!"
+    - "            &cBad word said: &7'<bad-word>'"
+  DEFAULT-JOIN-MESSAGE:
+    - ""
+    - "&7Welcome &f<player>&7, enjoy the Friday plugin."
+    - ""
+  DEFAULT-QUIT-MESSAGE:
+    - ""
+    - "&7Goodbye &f<player>&7, i hope you enjoyed the Friday plugin."
+    - ""
+

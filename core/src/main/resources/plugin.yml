@@ -1,0 +1,6 @@
+name: Friday
+version: ${project.version}
+author: Valente Esteban
+description: ${project.description}
+website: www.gromer.net/friday
+main: net.gromer.friday.core.Friday

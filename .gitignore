@@ -1,23 +1,24 @@
-# Compiled class file
-*.class
+# we use maven!
+build.xml
 
-# Log file
-*.log
+# maven
+target/
+dependency-reduced-pom.xml
 
-# BlueJ files
-*.ctxt
+# vim
+.*.sw[a-p]
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# various other potential build files
+build/
+bin/
+dist/
+manifest.mf
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Mac filesystem dust
+.DS_Store/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
